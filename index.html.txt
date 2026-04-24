@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>One Biotech</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="header">
+  <img src="images/logo-onebiotech.png" alt="One Biotech" />
+  <nav>
+    <a href="#empresa">Empresa</a>
+    <a href="#valores">Missão & Valores</a>
+    <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>One Biotech</h1>
+  <p>Representação comercial de marcas premium</p>
+</section>
+
+<section id="empresa">
+  <h2>Empresa</h2>
+  <p>Representação premium com atendimento humanizado e foco em soluções técnicas de excelência.</p>
+</section>
+
+<section id="valores">
+  <h2>Missão</h2>
+  <p>Oferecer atendimento premium e humanizado, com soluções técnicas confiáveis.</p>
+
+  <h2>Visão</h2>
+  <p>Ser referência no Sul do Brasil em soluções laboratoriais premium.</p>
+</section>
+
+<section id="contato">
+  <h2>Contato</h2>
+  <p>📧 comercial@onebiotech.com.br</p>
+  <p>📞 +55 11 92555-0304</p>
+</section>
+
+</body>
+</html>
