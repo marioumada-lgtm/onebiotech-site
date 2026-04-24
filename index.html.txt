@@ -2,14 +2,15 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>One Biotech</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
 <header class="header">
-  <img src="images/logo-onebiotech.png" alt="One Biotech" />
+  <img src="images/logo-onebiotech.png" alt="One Biotech">
   <nav>
     <a href="#empresa">Empresa</a>
     <a href="#valores">Missão & Valores</a>
@@ -43,3 +44,4 @@
 
 </body>
 </html>
+``
